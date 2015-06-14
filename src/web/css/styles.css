@@ -1,0 +1,76 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    width: 100%;
+}
+
+.autocomplete {
+    margin: 10px;
+    position: absolute;
+    width: 350px;
+    z-index: 10;
+}
+
+.searchbox {
+    border: none;
+    width: 100%;
+}
+
+.searchbox, li.movie-item {
+    height: 30px;
+    line-height: 30px;
+}
+
+.searchbox, ul.movie-items, li.movie-item {
+    padding-left: 10px;
+}
+
+ul.movie-items {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+li.movie-item {
+    background-color: white;
+    cursor: pointer;
+    list-style-type: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+}
+
+li.movie-item {
+    border-top: solid 1px #EEE;
+}
+
+.movie-info {
+    background: white;
+    bottom: 10px;
+    display: none;
+    height: 150px;
+    left: 10px;
+    padding: 20px;
+    position: absolute;
+    width: 400px;
+    z-index: 10;
+}
+
+.movie-info h1 {
+    font-size: 1.5em;
+    display: inline;
+}
+
+.movie-info span.release-year {
+    font-size: 1.2em;
+    color: #999;
+}
+
+#map-canvas {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}

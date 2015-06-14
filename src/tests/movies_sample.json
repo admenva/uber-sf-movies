@@ -1,0 +1,136 @@
+[{
+  "director": "Jon Amiel",
+  "production_company": "Regency Enterprises",
+  "actors": [
+    "Sigourney Weaver",
+    "Holly Hunter"
+  ],
+  "release_year": "1995",
+  "title": "Copycat",
+  "distributor": "Warner Bros. Pictures",
+  "fun_facts": "The 2nd highest point in SF after Mt. Davidson, Twin Peaks sit at the geographic center of SF. The native Ohlone people called the area \"called the area “Los Pechos de la Chola” or \"Breasts of the Indian Maiden,\" but in the 19th Century when America took over the area, it was renamed \"Twin Peaks\".",
+  "writer": "Ann Biderman",
+  "locations": [
+    {
+      "lat": 37.7544066,
+      "lng": -122.4476845,
+      "address": "Twin Peaks"
+    },
+    {
+      "lat": 37.8235515,
+      "lng": -122.370648,
+      "address": "Treasure Island"
+    },
+    {
+      "lat": 37.7749295,
+      "lng": -122.4194155,
+      "address": "Sound Factory (1st and Harrison Streets)"
+    },
+    {
+      "lat": 37.78169,
+      "lng": -122.386636,
+      "address": "Java House (Pier 40, Embarcadero)"
+    },
+    {
+      "lat": 37.7911417,
+      "lng": -122.4376241,
+      "address": "Alta Plaza Park"
+    },
+    {
+      "lat": 37.804986,
+      "lng": -122.439794,
+      "address": "82 & 67 Rico Way (Marina District)"
+    }
+  ]
+},
+{
+  "director": "Peter Segal",
+  "production_company": "Columbia Pictures Corporation",
+  "actors": [
+    "Adam Sandler",
+    "Drew Barrymore",
+    "Rob Schneider"
+  ],
+  "release_year": "2004",
+  "title": "50 First Dates",
+  "distributor": "Columbia Pictures",
+  "fun_facts": null,
+  "writer": "George Wing",
+  "locations": [
+    {
+      "lat": 37.7749295,
+      "lng": -122.4194155,
+      "address": "Rainforest Café (145 Jefferson Street)"
+    }
+  ]
+},
+{
+  "director": "Jon Poznanter",
+  "production_company": "Trismegistus",
+  "actors": [
+    "John Wynn"
+  ],
+  "release_year": "2010",
+  "title": "God is a Communist?* (show me heart universe)",
+  "distributor": null,
+  "fun_facts": null,
+  "writer": "Jon Poznanter",
+  "locations": [
+    {
+      "lat": 37.7749295,
+      "lng": -122.4194155,
+      "address": "Sacramento & Washington Streets"
+    }
+  ]
+},
+{
+  "director": "John Byrum",
+  "production_company": "Orion Pictures Corporation",
+  "actors": [
+    "Nick Nolte",
+    "Sissy Spacek",
+    "Meg Ryan"
+  ],
+  "release_year": "1980",
+  "title": "Heart Beat",
+  "distributor": "Orion Pictures Corporation",
+  "fun_facts": "One of the country's earliest bookstores, City Lights was founded by, and still owned by beat poet Lawrence Ferlinghetti. The bookstore was often frequented by Beat writers like Allen Ginsberg and Jack Kerouac.",
+  "writer": "John Byrum",
+  "locations": [
+    {
+      "lat": 39.9611755,
+      "lng": -82.99879419999999,
+      "address": "City Lights Bookstore (261 Columbus)"
+    },
+    {
+      "lat": 37.803376,
+      "lng": -122.417167,
+      "address": "San Francisco Art Institute (800 Chestnut Street)"
+    },
+    {
+      "lat": 37.8009182,
+      "lng": -122.410111,
+      "address": "Washington Square Bar & Grill (1707 Powell)"
+    }
+  ]
+},
+{
+  "director": "Raoul Walsh",
+  "production_company": "Warner Bros. Pictures",
+  "actors": [
+    "Errol Flynn",
+    "Katherine Hepburn"
+  ],
+  "release_year": "1942",
+  "title": "Gentleman Jim",
+  "distributor": "Warner Bros. Pictures",
+  "fun_facts": "The Barbary Coast was a red-light district that was largely destroyed in the 1906 earthquake. Though some of the establishments were rebuilt after the earthquake, an anti-vice campaign put the establisments out of business.",
+  "writer": "Vincent Lawrence",
+  "locations": [
+    {
+      "lat": 37.784196,
+      "lng": -122.40811,
+      "address": "The Barbary Coast"
+    }
+  ]
+}]

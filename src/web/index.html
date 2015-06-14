@@ -1,0 +1,34 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <title>SF Movies</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <div class="autocomplete">
+        <input class="searchbox" type="text" placeholder="Movies in San Francisco">
+        <div class="results"></div>
+    </div>
+
+    <div class="movie-info">
+        <h1></h1>
+        <span class="release-year"></span>
+        <ul>
+            <li>Director: <span class="director"></span></li>
+            <li>Production company: <span class="company"></span></li>
+            <li>Writer: <span class="writer"></span></li>
+            <li>Actors: <span class="actors"></span></li>
+        </ul>
+    </div>
+
+    <div id='map-canvas'></div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+</html>
